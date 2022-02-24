@@ -136,9 +136,12 @@ p{
         height: auto;
     }
 
+    .sign{
+        margin-top: 15px;
+    }
+
     .sign p{
         font-size: 16px;
-        margin-top: 25px;
     }
 
     .footer{
